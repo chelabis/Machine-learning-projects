@@ -12,4 +12,4 @@
 #### Save the created model with joblib
 
 ### Project 4: Digits Classification
-#### Using mnist dataset
+#### Using mnist dataset to classify 0-9 numbers with various dimension reduction algorithms and also apply multiple classification algorithms
